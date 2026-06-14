@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/bradleynfilsaime/">Bradley Fils-Aime</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/bradleynfilsaime/">Bradley Nicholas Fils-Aime</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 Cybersecurity is the field where my curiosity, discipline, and problem-solving mindset come together. I enjoy building hands-on projects that let me investigate real security issues, understand how attacks unfold, and improve the way systems are protected. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
